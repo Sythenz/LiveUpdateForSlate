@@ -11,6 +11,9 @@ A simple plugin that refreshes the editor layout and tabs when Live Coding is co
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YBXWvysLyNU
 " target="_blank"><img src="http://img.youtube.com/vi/YBXWvysLyNU/0.jpg" 
 alt="Using Live Update for Slate" width="240" height="180" border="10" /></a>
+###### Click the video above to an example of how it works.
+
+---
 
 This tool is provided as is, and is hella simple, feel free to make improvements as PRs!
 

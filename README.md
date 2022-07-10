@@ -1,5 +1,5 @@
 # Live Update For Slate
-A simple plugin that refreshes the editor layout and tabs when Live Coding is complete.
+A simple plugin that refreshes the editor layout and tabs when Live Coding is complete. Compiled for in UE4.27.2.
 
 ## How to use:
 - Place in Project/Plugins directory

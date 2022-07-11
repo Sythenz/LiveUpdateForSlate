@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class FLiveUpdateSlateModule : public IModuleInterface
+class FLiveUpdateForSlateModule : public IModuleInterface
 {
 public:
 
@@ -13,4 +13,5 @@ public:
 	virtual void StartupModule() override;
 	virtual void ShutdownModule() override;
 
+	void OnPatchComplete();
 };

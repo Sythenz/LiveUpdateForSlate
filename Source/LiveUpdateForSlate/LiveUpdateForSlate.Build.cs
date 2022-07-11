@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class LiveUpdateSlate : ModuleRules
+public class LiveUpdateForSlate : ModuleRules
 {
-	public LiveUpdateSlate(ReadOnlyTargetRules Target) : base(Target)
+	public LiveUpdateForSlate(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		

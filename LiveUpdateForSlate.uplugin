@@ -16,7 +16,7 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "LiveUpdateSlate",
+			"Name": "LiveUpdateForSlate",
 			"Type": "Editor",
 			"LoadingPhase": "Default"
 		}

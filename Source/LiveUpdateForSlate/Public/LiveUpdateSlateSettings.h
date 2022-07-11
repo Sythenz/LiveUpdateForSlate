@@ -11,7 +11,7 @@
  */
 
 UCLASS(config = EditorPerProjectUserSettings)
-class LIVEUPDATESLATE_API ULiveUpdateSlateSettings : public UObject
+class LiveUpdateSlate_API ULiveUpdateSlateSettings : public UObject
 {
 	GENERATED_BODY()
 

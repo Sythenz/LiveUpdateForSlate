@@ -6,6 +6,7 @@
 #include <Framework/Docking/TabManager.h>
 #include <LiveUpdateSlateSettings.h>
 #include <ISettingsModule.h>
+#include <Misc/ConfigCacheIni.h>
 
 #define LOCTEXT_NAMESPACE "FLiveUpdateSlateModule"
 

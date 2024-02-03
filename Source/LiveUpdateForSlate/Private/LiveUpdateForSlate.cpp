@@ -1,8 +1,8 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "LiveUpdateForSlate.h"
-#include <Windows/LiveCoding/Public/ILiveCodingModule.h>
-#include <MainFrame/Public/Interfaces/IMainFrameModule.h>
+#include <ILiveCodingModule.h>
+#include <Interfaces/IMainFrameModule.h>
 #include <Framework/Docking/TabManager.h>
 #include <LiveUpdateSlateSettings.h>
 #include <ISettingsModule.h>
